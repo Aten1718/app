@@ -1,0 +1,7 @@
+{
+  "name": "BerryGuard AI: Strawberry Expert System",
+  "description": "Sistem pakar cerdas berbasis AI untuk membantu petani stroberi mendiagnosa penyakit, memantau kondisi tanaman, dan mencegah gagal panen.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
